@@ -1,0 +1,25 @@
+.MuiSvgIcon-root {
+  color: white;
+}
+.MuiTypography-body1 {
+  color: white;
+}
+.header__option {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.option__lineOne {
+  font-size: 11px;
+}
+
+.option__lineTwo {
+  font-size: 13px;
+  font-weight: 800;
+}
+.MuiPaper-root {
+      background-color: #717275;}
